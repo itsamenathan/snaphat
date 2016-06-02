@@ -1,0 +1,6 @@
+[submodule "includes/CrumpSchemes"]
+	path = includes/CrumpSchemes
+	url = https://github.com/tylercrumpton/CrumpSchemes.git
+[submodule "includes/CrumpPrints.pretty"]
+	path = includes/CrumpPrints.pretty
+	url = https://github.com/tylercrumpton/CrumpPrints.pretty.git
